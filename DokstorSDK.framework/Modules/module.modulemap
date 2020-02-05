@@ -1,0 +1,11 @@
+framework module DokstorSDK {
+  umbrella header "DokstorSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module DokstorSDK.Swift {
+    header "DokstorSDK-Swift.h"
+    requires objc
+}
