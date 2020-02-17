@@ -6,63 +6,67 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		COM+sA5riN2GNBAiK0dMteaOmEM=
+		zno6ialXfBKpThcgpZJlzhmjkSc=
 		</data>
 		<key>DKDocumentDetailVC.nib</key>
 		<data>
-		inaHSto4Qug+Tlfzy76pnA4AgHY=
+		E4cr8ziiSLJIXT0Klh3Q3RlxXnI=
 		</data>
 		<key>DKDocumentFieldCVCell.nib</key>
 		<data>
-		3w5ZeX+u9PmRpWsI2YzhiwHRWh4=
+		e99wWWR4+siZmGr+NdxGwj0qkSo=
 		</data>
 		<key>DKImageViewCVCell.nib</key>
 		<data>
-		XsU7rAuTMxYx0CV/CYc274p3+R8=
+		LEivC67/BQQZiUgiMKc1OQgqqzs=
 		</data>
 		<key>DKSDKCountryVC.nib</key>
 		<data>
-		p2+9nprizK+JzZe/R4SkwSIyDc4=
+		oFZgE99tOXach8oU3Ie+gCtd1To=
 		</data>
 		<key>DKSDKDocumentBaseVC.nib</key>
 		<data>
-		UDMlfu3CzfTleQyhtHltTGwRjAw=
+		WH0TYz/pQRRF/X8l/JoFwm5fAJs=
 		</data>
 		<key>DKSDKIdentificationDocumentView.nib</key>
 		<data>
-		2lBKrYT1FbPlaXiw89/aDXmbg3c=
+		e+YKBWTsCtp+H/21bvrTr0pAvIo=
 		</data>
 		<key>DKSDKIdentificationVC.nib</key>
 		<data>
-		wvnu1I7kOeBaJ5btVSI6Aste45I=
+		bv6QP1kBcIHso5+H/4LXEcxXpoY=
 		</data>
 		<key>DKSDKPersonalDataVC.nib</key>
 		<data>
-		E0JNXBWru1pMPDFHpQJNBSQS7MM=
+		yDMQ2qFXEWe4GQTNmdNVNbLf2Ns=
 		</data>
 		<key>DKSDKPropertyCell.nib</key>
 		<data>
-		7zfsCPWKtdG9+mI3R9EfPp9Jnjw=
+		ajNJtChIaT9C/+0VPx5IwANcYP4=
 		</data>
 		<key>DKSDKSelfieScanVC.nib</key>
 		<data>
-		dph2XToMiz9m/2SHV9wdO/DtSdo=
+		334Ctokc+YbcJgtQHm9X2LmJLgw=
 		</data>
 		<key>DKSDKSummaryFieldCell.nib</key>
 		<data>
-		FmcBL6Ww+oDfD0HW1R/G6xABKLw=
+		hoUP4mj/BE75GwOUoEbIJNJGdM0=
 		</data>
 		<key>DKSDKSummaryHeaderCell.nib</key>
 		<data>
-		aNSNQnDLL3mrvcHdnHoIn9yG+FA=
+		QNVg3ljETRVTILrhKSVYM8gijuM=
 		</data>
 		<key>DKSDKSummaryVC.nib</key>
 		<data>
-		Z2KDuIxB5oTUW+VpN7RBBeGX+/g=
+		zab+L8Dyc2IO4V1vhlgkO8JwmFo=
+		</data>
+		<key>DKScanFaceViewController.nib</key>
+		<data>
+		wuApViN+HnI49KNKuJZTe0xnFd8=
 		</data>
 		<key>DKScanViewController.nib</key>
 		<data>
-		YMs+IYkAofkjKtEL11SFlK8NI+s=
+		ncu+OeVCL0JqL8XRJVJ0pmYC4ps=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -618,9 +622,13 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		ybZFhvCS8aqumrXjK1zyzGYdTXU=
+		</data>
 		<key>Headers/DokstorSDK-Swift.h</key>
 		<data>
-		z3fKe/Wq0/mXNtbPxiE+5sBVAGM=
+		Yuya3WZV/usxUazDU5DMlzVVPOw=
 		</data>
 		<key>Headers/DokstorSDK.h</key>
 		<data>
@@ -704,27 +712,23 @@
 		</data>
 		<key>Modules/DokstorSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		SIfRx6V1CevlJ4znyeWYvoMjaG8=
+		zJpxAXrAuSJv9TBviTiiXmYi4P4=
 		</data>
 		<key>Modules/DokstorSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		S+bj0Vv1RbcLV5cjSr2qu+IZoGA=
+		0JVJCz78B/70NtEk8k3kA/jkKgQ=
 		</data>
 		<key>Modules/DokstorSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		SIfRx6V1CevlJ4znyeWYvoMjaG8=
+		zJpxAXrAuSJv9TBviTiiXmYi4P4=
 		</data>
 		<key>Modules/DokstorSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		S+bj0Vv1RbcLV5cjSr2qu+IZoGA=
+		0JVJCz78B/70NtEk8k3kA/jkKgQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		dVEWzPTTFMQ1ErIFLkSDtUBsEdM=
-		</data>
-		<key>NFCDocumentReader.podspec</key>
-		<data>
-		xZ6u6iKLhh0vXuRPx5NtGO8Zihc=
 		</data>
 		<key>OFL.txt</key>
 		<data>
@@ -769,105 +773,112 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uag5m4IMa8wL4L3FpDaJzQN0gDyjuof77edZmpUX5RY=
+			OKOcbCSgr6XZb6mv2SM9Lp79+04xb4m/AG7FcSdLAbQ=
 			</data>
 		</dict>
 		<key>DKDocumentDetailVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+SvM6rdUvluNkj52yLBm29nijvcYlTZjjFSxSEfPFqc=
+			BYOO1TNnw2wFuwJ2BisJKusIlwJQsGxUH8OHmTFEimQ=
 			</data>
 		</dict>
 		<key>DKDocumentFieldCVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			64D004vkVgIVoxOBNtjwXnqZkim1bzKK1rjcAr21cus=
+			AjDG3iMyJ7TaFuXWbkJjJOMH84JZp4pNSdtPPH0WWcc=
 			</data>
 		</dict>
 		<key>DKImageViewCVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4lbQ0UBxyRxAzMdQWg3X8GSAXseuQWK5Okl8Bzv8aKo=
+			75NtevDlhQ94nwlAIhNXZBRKWhDG48jnTH+gT0oO0QY=
 			</data>
 		</dict>
 		<key>DKSDKCountryVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M9xGG6xRvm0HC9mE+1rdHOw671FMkHj1YfQk1/+CsoI=
+			r/hjoERo614RqyO837loIXoQamR4dgHhGD9nPbTafyE=
 			</data>
 		</dict>
 		<key>DKSDKDocumentBaseVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMXbHJoPJUKA4tn0VyyS0Ztw6VlraRdVifK5DcCLjz8=
+			gTBjcLW/o06Y0SQPbq6Q7bG+L+w4PvtgLI+S1gX655g=
 			</data>
 		</dict>
 		<key>DKSDKIdentificationDocumentView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YP0+CEc5x3cfyX07v5lUEY5dVqIGwgESWsWG9mCZpfQ=
+			A7JDPqUfZgVMtsC/K0+FI4ZbT5NUfBKD2zqbEtAyKKY=
 			</data>
 		</dict>
 		<key>DKSDKIdentificationVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OjOI8ZMMpf9tCUWVogCvY+7nR/v8l68B5okufb0c+Ck=
+			jg75xF3PrtA+6VLQqnH1MO0sG0+Xf7MqGBQq8OvWzKM=
 			</data>
 		</dict>
 		<key>DKSDKPersonalDataVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pyQR/zit0W6IqrLfKbR8A9IIAdRK9nnoDQH6fqixD4k=
+			4jtFcnBkC3QsjBE5RLyx1Xd3z2mAPLn1DFH1DviZVz4=
 			</data>
 		</dict>
 		<key>DKSDKPropertyCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1obOlcu9EETpwFYmu/S/BZ76bApb3hVsLD9tBmzm7LU=
+			1yI4uaLievBcyj0CiESY9/bgPi9wpzzfeyZYUhz9ZFY=
 			</data>
 		</dict>
 		<key>DKSDKSelfieScanVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ViXLUMrqNdrcB+J6ZfFStZMvdqApw1qtvNvlft3omxA=
+			WcC+NaQvSMv3Rn9EXMH+FQOiB+0zxCyJFR8/EG1AT0I=
 			</data>
 		</dict>
 		<key>DKSDKSummaryFieldCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bq4uI6/TT5Uk/xAGDcF2pWhED9i8sh9xhS1K8hr4OEQ=
+			m3YjClD/T4P/zWD7UX2aXydPa0eG7T9k3gRvfAr/bLE=
 			</data>
 		</dict>
 		<key>DKSDKSummaryHeaderCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yt5M2tSQM4YxLMhQwHtsKWfMCC46xIZbuFVXQzg+D8Y=
+			jCrSlRr3hUyp/Tp2nvyWHkgrq7QO5h6Ny9XPF5n9784=
 			</data>
 		</dict>
 		<key>DKSDKSummaryVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDanQy6yuF61TpzxQ4m/e/DgYCAHIuqn1hYYm+LT3T4=
+			cKnQmVx+2KVBFK8wQChyGyJtDV9jOxj9zx0dz/24YHU=
+			</data>
+		</dict>
+		<key>DKScanFaceViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/ND7+YVrL5as+dhx+mX4NOAVysfE/eU/mFI/saudAU0=
 			</data>
 		</dict>
 		<key>DKScanViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpVewXYv9wtO2e9ipRdew1vx0MfIEfpUEejI0R0/VbY=
+			p0tEff9ODAbTGBN+pk0NpLpomMIx70LoU+icrBN3/Jg=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -1529,11 +1540,18 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r4jSwzWas+UCqofFbyr/zFaD35wbWj1/3pD3YL1W+Mc=
+			</data>
+		</dict>
 		<key>Headers/DokstorSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3C58EDxh/XxClfFSjQv7w41UYSLB8TMKDTtcz7ERrY=
+			ZnBjaimD++QAPPsc2u6B+j3PtDFtJwBZaEAYqtKJnYc=
 			</data>
 		</dict>
 		<key>Headers/DokstorSDK.h</key>
@@ -1673,28 +1691,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c6aFwvlc4cO9NZ3gUCI5zkXpZcWVYgvsZYsmwsewycY=
+			lJThJgPjjmQtajbRk1T/SHjGzVpEzKABdUuIfFv0OvA=
 			</data>
 		</dict>
 		<key>Modules/DokstorSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSvMbESOxaJQ0No+bLXn2+v8PVAicPYj2uHdBLhMguA=
+			tkLvExnFy7DEypoX6ZfiuXN4LlQdQ/R22dR/6DRUQno=
 			</data>
 		</dict>
 		<key>Modules/DokstorSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c6aFwvlc4cO9NZ3gUCI5zkXpZcWVYgvsZYsmwsewycY=
+			lJThJgPjjmQtajbRk1T/SHjGzVpEzKABdUuIfFv0OvA=
 			</data>
 		</dict>
 		<key>Modules/DokstorSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSvMbESOxaJQ0No+bLXn2+v8PVAicPYj2uHdBLhMguA=
+			tkLvExnFy7DEypoX6ZfiuXN4LlQdQ/R22dR/6DRUQno=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1702,13 +1720,6 @@
 			<key>hash2</key>
 			<data>
 			wrIF06s2Azn3c2PLyAlAvONyXBvnaXGW39zGMyypnJo=
-			</data>
-		</dict>
-		<key>NFCDocumentReader.podspec</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7/gI/JKziqZMHNHBiLw2Oen8zUua6YVerUmS3m7LuOg=
 			</data>
 		</dict>
 		<key>OFL.txt</key>

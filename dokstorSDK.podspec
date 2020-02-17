@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-	s.name         = "dokstorSDK"
+	s.name         = "DokstorSDK"
 	s.version      = "0.1"
 	s.summary      = "Heliocor 2019©."
 	s.description  = "Heliocor 2019©"
@@ -27,9 +27,10 @@ Pod::Spec.new do |s|
 	# ――― Sub specs ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
 
-	s.public_header_files = "dokstorSDK.framework/Headers/*.h"
-    s.source_files = "dokstorSDK.framework/Headers/*.h"
-    s.vendored_frameworks = "dokstorSDK.framework"
+	s.public_header_files = "DokstorSDK.framework/Headers/*.h"
+    s.source_files = "DokstorSDK.framework/Headers/*.h"
+    s.resources = "DokstorSDK.framework/*.{nib,json,car}"
+    s.vendored_frameworks = "DokstorSDK.framework"
 
 	s.static_framework = true
 
